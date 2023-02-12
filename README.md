@@ -31,6 +31,13 @@
 $ npm install
 ```
 
+## Environment Variables
+
+```bash
+DATABASE_URL - postgres connection string
+FRONTEND_URL - ReactJs App url that consumes exposed backend API's
+```
+
 ## Running the app
 
 ```bash
