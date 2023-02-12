@@ -58,13 +58,14 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Back-End Routes
+## Back-End Route
 
 ```bash
 generate qr code url - "https://qrcode-generator-yoke.herokuapp.com/code"
+fetch movies generated - "https://qrcode-generator-yoke.herokuapp.com/scan/+id"
 ```
 
-## Front-End Routes
+## Front-End Route
 
 ```bash
 generate qr code - "https://qrcode-frontend.vercel.app/"
