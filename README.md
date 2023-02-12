@@ -61,7 +61,9 @@ $ npm run test:cov
 ## Backend Routes
 
 ```bash
-$ [npm install](https://qrcode-generator-yoke.herokuapp.com/code)
+[Nest](https://github.com/nestjs/nest)
+[generate qr code](https://qrcode-generator-yoke.herokuapp.com/code)
+[generate qr code](https://qrcode-generator-yoke.herokuapp.com/scan/1)
 ```
 
 ## Support
