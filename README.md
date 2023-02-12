@@ -68,7 +68,7 @@ $ npm run test:cov
 
 ```bash
 generate qr code url - "https://qrcode-generator-yoke.herokuapp.com/code"
-fetch movies generated - "https://qrcode-generator-yoke.herokuapp.com/scan/+id"
+fetch movies generated - "https://qrcode-generator-yoke.herokuapp.com/scan/" + id
 ```
 
 ## Front-End Route
