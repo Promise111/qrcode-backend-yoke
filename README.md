@@ -62,7 +62,7 @@ $ npm run test:cov
 
 ```bash
 [Nest](https://github.com/nestjs/nest)
-[generate qr code](https://qrcode-generator-yoke.herokuapp.com/code)
+[generateqrcode](https://qrcode-generator-yoke.herokuapp.com/code)
 [generate qr code](https://qrcode-generator-yoke.herokuapp.com/scan/1)
 ```
 
