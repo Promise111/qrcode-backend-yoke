@@ -35,7 +35,7 @@ $ npm install
 
 ```bash
 DATABASE_URL - postgres connection string
-FRONTEND_URL - ReactJs App url that consumes exposed backend API's
+FRONTEND_URL - ReactJs App url that consumes exposed backend APIs
 ```
 
 ## Running the app
