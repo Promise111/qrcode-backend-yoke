@@ -58,12 +58,16 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Backend Routes
+## Back-End Routes
 
 ```bash
-[Nest](https://github.com/nestjs/nest)
-[generateqrcode](https://qrcode-generator-yoke.herokuapp.com/code)
-[generate qr code](https://qrcode-generator-yoke.herokuapp.com/scan/1)
+generate qr code url - "https://qrcode-generator-yoke.herokuapp.com/code"
+```
+
+## Front-End Routes
+
+```bash
+generate qr code - "https://qrcode-frontend.vercel.app/"
 ```
 
 ## Support
