@@ -24,7 +24,7 @@
 
 ## Description
 
-[QR code Generator Project](https://qrcode-frontend.vercel.app/) NestJs project to generate qr codes every 10 seconds that return a link to 10 randomly genrated movies. Integrated postgreSQL hosted on superbase and managed using Prisma ORM to store ranndomly generated movies array as JSON datatype.
+[QR code Generator Project](https://qrcode-frontend.vercel.app/) NestJs project to generate qr codes every 10 seconds that return a link to 10 randomly generated movies. Integrated postgreSQL hosted on superbase and managed using Prisma ORM to store randomly generated movies array as JSON datatype.
 ## Installation
 
 ```bash
